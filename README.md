@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with **Flutter**
 - 🌱 I’m exploring **Backend Development** and planning to dive into **Python** & **DevOps**
 - 💬 Ask me anything about **Flutter UI**, **Firebase**, or **API Integration**
-- 📫 Reach me at: joymazumder.dev@gmail.com *(update if needed)*
+- 📫 Reach me at: joymazumder727@gmail.com *(update if needed)*
 - ⚡ Fun fact: I love building clean and scalable mobile apps
 
 ### 🔗 Connect with me:
