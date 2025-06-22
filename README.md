@@ -8,16 +8,16 @@
 
 ### 🔗 Connect with me:
 <div id="badges">
-  <a href="[(https://github.com/Joy-Mazumder)]">
+  <a href="https://github.com/Joy-Mazumder">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="[https://www.linkedin.com/in/joy-mazumder-8bbb19284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]"> 
+  <a href="https://www.linkedin.com/in/joy-mazumder-8bbb19284">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com">
+  <a href="https://www.instagram.com/your_username_here">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="[https://www.facebook.com/joy.mazumder8206]">
+  <a href="https://www.facebook.com/joy.mazumder8206">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
@@ -30,10 +30,10 @@
 ---
 
 ### 📊 GitHub Stats:
-![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joymazumder&show_icons=true&theme=dark)
+![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joy-Mazumder&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joymazumder&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-Mazumder&layout=compact&theme=dark)
 
 ---
 
-⭐️ From [joymazumder](https://github.com/joymazumder)
+⭐️ From [Joy-Mazumder](https://github.com/Joy-Mazumder)
